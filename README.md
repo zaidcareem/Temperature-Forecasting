@@ -13,8 +13,8 @@ Please make sure these libraries are installed
 <li> NumPy
 <li> Pandas
 <li> Scikit-learn
-<li> matplotlib
-<li> statsmodels
-<li> pmdarima
+<li> Matplotlib
+<li> Statsmodels
+<li> Pmdarima
 
 
